@@ -143,15 +143,6 @@ export default function HeaderLinks(props) {
               borderRadius="8px"
               mb="10px"
             >
-              <ItemContent info="Horizon UI Dashboard PRO" />
-            </MenuItem>
-            <MenuItem
-              _hover={{ bg: 'none' }}
-              _focus={{ bg: 'none' }}
-              px="0"
-              borderRadius="8px"
-              mb="10px"
-            >
               <ItemContent info="Horizon Design System Free" />
             </MenuItem>
           </Flex>
@@ -182,11 +173,6 @@ export default function HeaderLinks(props) {
         >
           <Image src={navImage} borderRadius="16px" mb="28px" />
           <Flex flexDirection="column">
-            <Link w="100%" href="https://horizon-ui.com/pro">
-              <Button w="100%" h="44px" mb="10px" variant="brand">
-                Buy Horizon UI PRO
-              </Button>
-            </Link>
             <Link
               w="100%"
               href="https://horizon-ui.com/documentation/docs/introduction"

@@ -1,0 +1,122 @@
+[
+  {
+    "phoneNumber": "+1 (555) 123-4567",
+    "contactName": "John Smith",
+    "duration": "5:32",
+    "cost": "2.45",
+    "status": "Completed",
+    "date": "2024-01-15 14:30"
+  },
+  {
+    "phoneNumber": "+1 (555) 987-6543",
+    "contactName": "Sarah Johnson",
+    "duration": "12:18",
+    "cost": "5.67",
+    "status": "Completed",
+    "date": "2024-01-15 16:45"
+  },
+  {
+    "phoneNumber": "+1 (555) 456-7890",
+    "contactName": "Mike Wilson",
+    "duration": "3:45",
+    "cost": "1.89",
+    "status": "Failed",
+    "date": "2024-01-15 18:20"
+  },
+  {
+    "phoneNumber": "+1 (555) 321-0987",
+    "contactName": "Emily Davis",
+    "duration": "8:12",
+    "cost": "3.24",
+    "status": "Completed",
+    "date": "2024-01-14 10:15"
+  },
+  {
+    "phoneNumber": "+1 (555) 654-3210",
+    "contactName": "David Brown",
+    "duration": "15:30",
+    "cost": "7.50",
+    "status": "Completed",
+    "date": "2024-01-14 15:30"
+  },
+  {
+    "phoneNumber": "+1 (555) 789-0123",
+    "contactName": "Lisa Anderson",
+    "duration": "2:15",
+    "cost": "1.12",
+    "status": "Completed",
+    "date": "2024-01-13 09:45"
+  },
+  {
+    "phoneNumber": "+1 (555) 147-2580",
+    "contactName": "Robert Taylor",
+    "duration": "6:45",
+    "cost": "3.33",
+    "status": "Completed",
+    "date": "2024-01-13 11:20"
+  },
+  {
+    "phoneNumber": "+1 (555) 369-1470",
+    "contactName": "Jennifer White",
+    "duration": "4:20",
+    "cost": "2.10",
+    "status": "In Progress",
+    "date": "2024-01-12 16:00"
+  },
+  {
+    "phoneNumber": "+1 (555) 258-0369",
+    "contactName": "Michael Garcia",
+    "duration": "9:55",
+    "cost": "4.95",
+    "status": "Completed",
+    "date": "2024-01-12 14:30"
+  },
+  {
+    "phoneNumber": "+1 (555) 741-8520",
+    "contactName": "Amanda Martinez",
+    "duration": "7:30",
+    "cost": "3.75",
+    "status": "Completed",
+    "date": "2024-01-11 13:15"
+  },
+  {
+    "phoneNumber": "+1 (555) 963-7410",
+    "contactName": "Christopher Lee",
+    "duration": "11:45",
+    "cost": "5.85",
+    "status": "Completed",
+    "date": "2024-01-11 10:45"
+  },
+  {
+    "phoneNumber": "+1 (555) 852-9630",
+    "contactName": "Jessica Thompson",
+    "duration": "3:20",
+    "cost": "1.60",
+    "status": "Failed",
+    "date": "2024-01-10 17:30"
+  },
+  {
+    "phoneNumber": "+1 (555) 159-7530",
+    "contactName": "Daniel Clark",
+    "duration": "13:25",
+    "cost": "6.65",
+    "status": "Completed",
+    "date": "2024-01-10 15:20"
+  },
+  {
+    "phoneNumber": "+1 (555) 357-9510",
+    "contactName": "Ashley Rodriguez",
+    "duration": "5:10",
+    "cost": "2.55",
+    "status": "Completed",
+    "date": "2024-01-09 12:00"
+  },
+  {
+    "phoneNumber": "+1 (555) 753-1590",
+    "contactName": "Matthew Lewis",
+    "duration": "8:40",
+    "cost": "4.30",
+    "status": "Completed",
+    "date": "2024-01-09 09:30"
+  }
+]
